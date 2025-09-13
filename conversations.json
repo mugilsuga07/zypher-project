@@ -1,0 +1,33 @@
+{
+  "conv_1757805062387_19y8l4ie2": {
+    "id": "conv_1757805062387_19y8l4ie2",
+    "messages": [
+      {
+        "id": "msg_1757805062387_td49cz6s8",
+        "role": "user",
+        "content": "Hello, this is a test message for persistence",
+        "timestamp": "2025-09-13T23:11:02.387Z"
+      },
+      {
+        "id": "msg_1757805071468_xi90tkgax",
+        "role": "assistant",
+        "content": "Hello! Nice to meet you, and thanks for reaching out. I appreciate you letting me know this is a test message - it's always good to check how things are working.\n\nSince we're just getting started, I'm curious - what brings you here today? Are you exploring how I work, or is there something specific you'd like to chat about?",
+        "timestamp": "2025-09-13T23:11:11.468Z"
+      },
+      {
+        "id": "msg_1757805095659_r3ge2urfa",
+        "role": "user",
+        "content": "Great! Can you remember our previous conversation?",
+        "timestamp": "2025-09-13T23:11:35.659Z"
+      },
+      {
+        "id": "msg_1757805105122_v1o57xtif",
+        "role": "assistant",
+        "content": "I can see our conversation started just now with your test message, so this is actually the beginning of our chat together. I don't have access to any earlier conversations we might have had in previous sessions - each conversation starts fresh for me.\n\nAre you testing to see how conversation memory works, or were you hoping to continue discussing something specific from before? I'd be happy to pick up on whatever topic you'd like to explore!",
+        "timestamp": "2025-09-13T23:11:45.122Z"
+      }
+    ],
+    "createdAt": "2025-09-13T23:11:02.387Z",
+    "lastActivity": "2025-09-13T23:11:45.122Z"
+  }
+}
